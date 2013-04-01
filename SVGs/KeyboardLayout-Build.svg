@@ -16,7 +16,7 @@
    id="svg4177"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="KeyboardLayout-Build-1.4.svg"
+   sodipodi:docname="KeyboardLayout-Build-1.5.svg"
    inkscape:export-filename="E:\Icons\Keyboard\1.4\KeyboardLayout-Build.png"
    inkscape:export-xdpi="112.66169"
    inkscape:export-ydpi="112.66169">
@@ -27,10 +27,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="287.829"
-     inkscape:cy="354.83526"
-     inkscape:current-layer="layer5"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="767.10743"
+     inkscape:cy="73.993986"
+     inkscape:current-layer="layer1"
      id="namedview4181"
      showgrid="false"
      inkscape:window-width="1920"
@@ -2650,7 +2650,7 @@
        height="40.760765"
        width="110.81347"
        id="rect3753-1-74-0-7-5-6-1-7-7"
-       style="fill:#008000;fill-opacity:1;stroke:#5f5f5f;stroke-width:0.92088747;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.89999998;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;fill-opacity:1;stroke:#5f5f5f;stroke-width:0.92088747000000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.89999998000000000;stroke-opacity:1;stroke-dasharray:none" />
     <text
        inkscape:export-ydpi="141.52"
        inkscape:export-xdpi="141.52"
@@ -2659,19 +2659,19 @@
        id="text3361-9-1-4-0-2-7-8"
        y="307.66931"
        x="566.77155"
-       style="font-size:7.36709976px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:7.36709976000000030px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;fill:#808080;-inkscape-font-specification:Sans Bold"
          y="307.66931"
          x="566.77155"
          id="tspan3363-4-1-3-2-0-8-1"
          sodipodi:role="line">R-Shift</tspan><tspan
-         style="font-size:6.1392498px"
+         style="font-size:6.13924980000000000px;fill:#808080"
          id="tspan3365-8-52-1-4-0-3-5"
          y="316.87817"
          x="566.77155"
          sodipodi:role="line" /><tspan
-         style="font-size:6.1392498px;fill:#0000ff"
+         style="font-size:6.13924980000000000px;fill:#808080"
          id="tspan3367-8-7-2-8-1-8-8"
          y="326.08707"
          x="566.77155"
@@ -4814,7 +4814,7 @@
          style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6188);stroke-width:0.46417323;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
          x="801.59058"
          y="703.8717"
-         id="tspan14159">Version 1.4</tspan></text>
+         id="tspan14159">Version 1.6</tspan></text>
     <path
        style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1028.7484,690.15244 c -1006.800227,0 -1006.800227,0 -1006.800227,0"
@@ -4865,7 +4865,7 @@
        rx="10.819067"
        ry="10.819067" />
     <rect
-       style="color:#000000;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.92125982;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#d5e5ff;fill-opacity:1;stroke:#91b4ef;stroke-width:0.92125981999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1"
        id="rect7518-5-2-5"
        width="227.69186"
        height="238.19679"
@@ -5177,7 +5177,7 @@
        height="238.19679"
        width="227.69186"
        id="rect10109"
-       style="color:#000000;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:0.92125982;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#d5e5ff;fill-opacity:1;stroke:#91b4ef;stroke-width:0.92125981999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1" />
     <path
        transform="matrix(1,0,0,0.89036611,-164.60765,71.777125)"
        sodipodi:nodetypes="cccccccccsccccccscccc"
@@ -5356,20 +5356,30 @@
          sodipodi:role="line"
          id="tspan10205">Around SPH</tspan></text>
     <text
-       sodipodi:linespacing="125%"
+       sodipodi:linespacing="115%"
        id="text10169"
-       y="510.22964"
+       y="504.66742"
        x="800.19427"
-       style="font-size:5.5250001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:5.5250001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:114.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
          id="tspan10171"
-         y="510.22964"
+         y="504.66742"
          x="800.19427"
          sodipodi:role="line">Camera Orbit</tspan><tspan
-         y="517.13593"
+         y="511.02118"
          x="800.19427"
          sodipodi:role="line"
-         id="tspan10201">Around Ship</tspan></text>
+         id="tspan10201">Around Ship</tspan><tspan
+         y="517.37494"
+         x="800.19427"
+         sodipodi:role="line"
+         id="tspan7111"
+         style="font-size:5.5250001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:114.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Camera Pan</tspan><tspan
+         y="523.7287"
+         x="800.19427"
+         sodipodi:role="line"
+         id="tspan7113"
+         style="font-size:5.5250001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:114.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Around SPH</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10175"
