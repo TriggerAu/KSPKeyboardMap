@@ -16,10 +16,10 @@
    id="svg4177"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="KeyboardLayout-Build-1.5.svg"
-   inkscape:export-filename="E:\Icons\Keyboard\1.4\KeyboardLayout-Build.png"
-   inkscape:export-xdpi="112.66169"
-   inkscape:export-ydpi="112.66169">
+   sodipodi:docname="KeyboardLayout-Build-1.7.svg"
+   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\1.7\KeyboardLayout-Build Hires.png"
+   inkscape:export-xdpi="175.93449"
+   inkscape:export-ydpi="175.93449">
   <sodipodi:namedview
      inkscape:document-units="mm"
      pagecolor="#ffffff"
@@ -27,10 +27,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="767.10743"
-     inkscape:cy="73.993986"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="592.35716"
+     inkscape:cy="355.10414"
+     inkscape:current-layer="layer5"
      id="namedview4181"
      showgrid="false"
      inkscape:window-width="1920"
@@ -834,7 +834,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1451,16 +1451,16 @@
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan8528">O</tspan></tspan><tspan
          id="tspan6055"
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="239.51961"
          x="144.39116"
-         sodipodi:role="line">Roll Part</tspan><tspan
-         style="font-size:5.52532481999999980px;fill:#008000"
+         sodipodi:role="line">Pitch Part</tspan><tspan
+         style="font-size:5.52532482px;fill:#008000"
          y="246.42627"
          x="144.39116"
          sodipodi:role="line"
-         id="tspan8544">LEFT 5<tspan
-   style="font-size:65%;baseline-shift:super;fill:#008000"
+         id="tspan8544">DOWN 5<tspan
+   style="font-size:65.00091553%;baseline-shift:super;fill:#008000"
    id="tspan8562">O</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="141.52"
@@ -1502,16 +1502,16 @@
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan8530">O</tspan></tspan><tspan
          id="tspan6063"
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="239.51961"
          x="187.36589"
          sodipodi:role="line">Roll Part</tspan><tspan
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="246.42627"
          x="187.36589"
          sodipodi:role="line"
-         id="tspan8548">LEFT 5<tspan
-   style="font-size:65%;baseline-shift:super;fill:#008000"
+         id="tspan8548">RIGHT 5<tspan
+   style="font-size:65.00091553%;baseline-shift:super;fill:#008000"
    id="tspan8564">O</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="141.52"
@@ -1891,16 +1891,16 @@
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan8534">O</tspan></tspan><tspan
          id="tspan6065"
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="284.33615"
          x="158.51146"
-         sodipodi:role="line">Roll Part</tspan><tspan
-         style="font-size:5.52532481999999980px;fill:#008000"
+         sodipodi:role="line">Pitch Part</tspan><tspan
+         style="font-size:5.52532482px;fill:#008000"
          y="291.2428"
          x="158.51146"
          sodipodi:role="line"
          id="tspan8556">LEFT 5<tspan
-   style="font-size:65%;baseline-shift:super;fill:#008000"
+   style="font-size:65.00091553%;baseline-shift:super;fill:#008000"
    id="tspan8568">O</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="141.52"
@@ -1942,16 +1942,16 @@
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan8536">O</tspan></tspan><tspan
          id="tspan6059"
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="284.33615"
          x="201.48619"
-         sodipodi:role="line">Roll Part</tspan><tspan
-         style="font-size:5.52532481999999980px;fill:#008000"
+         sodipodi:role="line">Yaw Part</tspan><tspan
+         style="font-size:5.52532482px;fill:#008000"
          y="291.2428"
          x="201.48619"
          sodipodi:role="line"
          id="tspan8560">LEFT 5<tspan
-   style="font-size:65%;baseline-shift:super;fill:#008000"
+   style="font-size:65.00091553%;baseline-shift:super;fill:#008000"
    id="tspan8566">O</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="141.52"
@@ -2753,16 +2753,16 @@
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan8532">O</tspan></tspan><tspan
          id="tspan6057"
-         style="font-size:5.52532481999999980px;fill:#008000"
+         style="font-size:5.52532482px;fill:#008000"
          y="284.33615"
          x="115.5367"
-         sodipodi:role="line">Roll Part</tspan><tspan
-         style="font-size:5.52532481999999980px;fill:#008000"
+         sodipodi:role="line">Yaw Part</tspan><tspan
+         style="font-size:5.52532482px;fill:#008000"
          y="291.2428"
          x="115.5367"
          sodipodi:role="line"
          id="tspan8552">LEFT 5<tspan
-   style="font-size:65%;baseline-shift:super;fill:#008000"
+   style="font-size:65.00091553%;baseline-shift:super;fill:#008000"
    id="tspan8570">O</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="141.52"
@@ -4790,7 +4790,7 @@
          id="tspan6018"
          x="155.74254"
          y="63.01498"
-         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6026);fill-opacity:1;stroke:#ffffff;stroke-width:0.53149605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy Oblique'">0.19.1</tspan></text>
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6026);fill-opacity:1;stroke:#ffffff;stroke-width:0.53149605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy Oblique'">0.21.1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6113);fill-opacity:1;stroke:#ffffff;stroke-width:0.46417323;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5978-8);font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
@@ -4814,7 +4814,7 @@
          style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6188);stroke-width:0.46417323;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
          x="801.59058"
          y="703.8717"
-         id="tspan14159">Version 1.6</tspan></text>
+         id="tspan14159">Version 1.7</tspan></text>
     <path
        style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1028.7484,690.15244 c -1006.800227,0 -1006.800227,0 -1006.800227,0"
@@ -5440,7 +5440,7 @@
          sodipodi:role="line"
          x="666.7359"
          y="470.98245"
-         style="fill:#0000ff">Duplicate Part</tspan></text>
+         style="fill:#0000ff">Duplicate Part + Tree</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10207"
