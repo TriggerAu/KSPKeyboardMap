@@ -16,10 +16,10 @@
    id="svg4177"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="KeyboardLayout-Build-1.7.svg"
-   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\1.7\KeyboardLayout-Build Hires.png"
-   inkscape:export-xdpi="175.93449"
-   inkscape:export-ydpi="175.93449">
+   sodipodi:docname="KeyboardLayout-Build-1.8.svg"
+   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\1.8\KeyboardLayout-Build_Small.png"
+   inkscape:export-xdpi="42.224281"
+   inkscape:export-ydpi="42.224281">
   <sodipodi:namedview
      inkscape:document-units="mm"
      pagecolor="#ffffff"
@@ -27,10 +27,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="592.35716"
-     inkscape:cy="355.10414"
-     inkscape:current-layer="layer5"
+     inkscape:zoom="2"
+     inkscape:cx="365.93481"
+     inkscape:cy="358.89582"
+     inkscape:current-layer="layer1"
      id="namedview4181"
      showgrid="false"
      inkscape:window-width="1920"
@@ -834,7 +834,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2371,13 +2371,23 @@
          id="tspan3363-4-5-4-6-2-9"
          sodipodi:role="line">C</tspan><tspan
          style="font-size:5.52532482px"
-         y="316.87817"
+         y="315.33923"
          x="222.97354"
          sodipodi:role="line"
-         id="tspan7496" /><tspan
+         id="tspan7496">Angle Snap</tspan><tspan
+         style="font-size:5.52532482px"
+         y="322.24591"
+         x="222.97354"
+         sodipodi:role="line"
+         id="tspan4965">Toggle</tspan><tspan
+         style="font-size:5.52532482px"
+         y="329.15256"
+         x="222.97354"
+         sodipodi:role="line"
+         id="tspan4963" /><tspan
          style="font-size:5.52532482px;fill:#0000ff"
          id="tspan3367-8-1-3-4-6-6"
-         y="324.54813"
+         y="336.0592"
          x="222.97354"
          sodipodi:role="line"> </tspan></text>
     <rect
@@ -3017,7 +3027,7 @@
          id="tspan3365-8-5-2-1-9-7-7-9"
          y="271.03583"
          x="588.25885"
-         sodipodi:role="line"> </tspan><tspan
+         sodipodi:role="line">Reset Staging List</tspan><tspan
          style="font-size:6.1392498px;fill:#0000ff"
          id="tspan3367-8-1-3-1-0-1-9-3"
          y="278.70987"
@@ -3772,7 +3782,7 @@
          style="font-size:5.52532482px"
          y="187.79643"
          x="742.96796"
-         sodipodi:role="line">Scroll UP</tspan><tspan
+         sodipodi:role="line">Scroll DOWN</tspan><tspan
          style="font-size:6.1392498px;fill:#0000ff"
          id="tspan3367-8-1-3-75-0-2-0"
          y="195.21606"
@@ -3903,7 +3913,7 @@
          style="font-size:5.52532482px"
          y="232.61296"
          x="742.96796"
-         sodipodi:role="line">Scroll DOWN</tspan><tspan
+         sodipodi:role="line">Scroll UP</tspan><tspan
          style="font-size:5.52532482px;fill:#0000ff"
          id="tspan3367-8-1-3-75-0-2-0-5"
          y="239.51961"
@@ -4814,7 +4824,7 @@
          style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6188);stroke-width:0.46417323;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
          x="801.59058"
          y="703.8717"
-         id="tspan14159">Version 1.7</tspan></text>
+         id="tspan14159">Version 1.9</tspan></text>
     <path
        style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1028.7484,690.15244 c -1006.800227,0 -1006.800227,0 -1006.800227,0"
