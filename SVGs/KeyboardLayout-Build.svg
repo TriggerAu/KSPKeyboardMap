@@ -16,10 +16,10 @@
    id="svg4177"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="KeyboardLayout-Build-1.8.svg"
-   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\1.8\KeyboardLayout-Build_Small.png"
-   inkscape:export-xdpi="42.224281"
-   inkscape:export-ydpi="42.224281">
+   sodipodi:docname="KeyboardLayout-Build-1.9.svg"
+   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\1.9\KeyboardLayout-Build_Hires.png"
+   inkscape:export-xdpi="225.2"
+   inkscape:export-ydpi="225.2">
   <sodipodi:namedview
      inkscape:document-units="mm"
      pagecolor="#ffffff"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="365.93481"
-     inkscape:cy="358.89582"
+     inkscape:cx="124.14243"
+     inkscape:cy="278.89582"
      inkscape:current-layer="layer1"
      id="namedview4181"
      showgrid="false"
@@ -834,7 +834,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
