@@ -16,7 +16,7 @@
    id="svg4177"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="KeyboardLayout-Flight-2.1-Dark.svg"
+   sodipodi:docname="KeyboardLayout-Flight-Dark.svg"
    inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\2.1\KeyboardLayout-Dark-Flight_Small.png"
    inkscape:export-xdpi="41.050507"
    inkscape:export-ydpi="41.050507">
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6494383"
-     inkscape:cx="313.45284"
-     inkscape:cy="377.3247"
+     inkscape:cx="1020.2719"
+     inkscape:cy="95.786604"
      inkscape:current-layer="layer1"
      id="namedview4181"
      showgrid="false"
@@ -868,7 +868,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2386,21 +2386,26 @@
        id="text3361-9-4-6-7-7"
        y="307.66931"
        x="137.02406"
-       style="font-size:7.36709976000000030px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       style="font-size:7.36709976px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          style="font-weight:bold;fill:#808080;-inkscape-font-specification:Sans Bold"
          y="307.66931"
          x="137.02406"
          id="tspan3363-4-5-1-7-1"
          sodipodi:role="line">Z</tspan><tspan
-         style="font-size:6.13924980000000000px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         style="font-size:6.1392498px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
          id="tspan3365-8-5-3-7-0"
          y="315.85223"
          x="137.02406"
-         sodipodi:role="line"> </tspan><tspan
-         style="font-size:6.13924980000000000px;fill:#0000ff;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3367-8-1-8-3-7"
+         sodipodi:role="line">Throttle</tspan><tspan
+         style="font-size:6.1392498px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
          y="323.52628"
+         x="137.02406"
+         sodipodi:role="line"
+         id="tspan4133">FULL</tspan><tspan
+         style="font-size:6.1392498px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="tspan3367-8-1-8-3-7"
+         y="331.20035"
          x="137.02406"
          sodipodi:role="line"> </tspan></text>
     <rect
@@ -4968,7 +4973,7 @@
          id="tspan6018"
          x="155.74254"
          y="63.01498"
-         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6026);fill-opacity:1;stroke:#ffffff;stroke-width:0.53149605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy Oblique'">0.23.0</tspan></text>
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6026);fill-opacity:1;stroke:#ffffff;stroke-width:0.53149605;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy Oblique'">0.25.0</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6113);fill-opacity:1;stroke:#ffffff;stroke-width:0.46417323;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5978-8);font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
@@ -4992,7 +4997,7 @@
          style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6188);stroke-width:0.46417323;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
          x="801.59058"
          y="703.8717"
-         id="tspan14159">Version 2.1</tspan></text>
+         id="tspan14159">Version 2.2</tspan></text>
     <path
        style="fill:#808080;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1028.7484,690.15244 c -1006.800227,0 -1006.800227,0 -1006.800227,0"
