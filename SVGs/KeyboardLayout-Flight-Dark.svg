@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="KeyboardLayout-Flight-Dark.svg"
-   inkscape:export-filename="D:\Programming\KSP\Icons\Keyboard\2.1\KeyboardLayout-Dark-Flight_Small.png"
-   inkscape:export-xdpi="41.050507"
-   inkscape:export-ydpi="41.050507">
+   inkscape:export-filename="D:\Programming\KSP\KSPKeyboardMap\PNGs\KeyboardLayout-Flight-Dark_Hires.png"
+   inkscape:export-xdpi="218.92381"
+   inkscape:export-ydpi="218.92381">
   <sodipodi:namedview
      inkscape:document-units="mm"
      pagecolor="#ffffff"
@@ -33,10 +33,10 @@
      inkscape:current-layer="layer1"
      id="namedview4181"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="961"
-     inkscape:window-x="1912"
-     inkscape:window-y="289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      showguides="true"
@@ -868,7 +868,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
